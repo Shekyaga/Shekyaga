@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Burak "@Shekyaga" Kaya
-- 🫂 I’m working on Control Systems and Robotic. I’m interested in Game Design, 3D-2D Design, and Developing Designing Platfroms 
+- 🫂 I’m working on Control Systems and Robotic. I’m also interested in Game Design, 3D-2D Design, and Developing Desig and Simulation Platfroms 
 - 🌱 I’m confident in Python and C/C++. I’m familiar with Linux shell, Java, JavaScript. I’m using ATMEL, ESP and STM brand microcontroller and microprossesor.
 - 📫 How to reach me aburakkaya@yahoo.com
 
